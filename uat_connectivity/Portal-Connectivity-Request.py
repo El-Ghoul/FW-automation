@@ -1,8 +1,4 @@
-#!/usr/bin/env python2.7
-#  coding=utf-8
-# Author: David Ohana - davido@traiana.com
-# Purpose: Portal Connectivity automation script
-# Date: 7/9/2016
+
 
 import argparse
 
