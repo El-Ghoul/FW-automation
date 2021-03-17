@@ -1,8 +1,4 @@
-#!/usr/bin/env python2.7
-#  coding=utf-8
-# Author:
-# Purpose: Portal Connectivity automation script
-# Date: 11/4/2019
+
 
 import argparse
 
